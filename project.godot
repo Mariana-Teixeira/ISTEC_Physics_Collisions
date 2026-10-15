@@ -11,13 +11,9 @@ config_version=5
 [application]
 
 config/name="PhysicsCollisions"
+run/main_scene="uid://cp606m0pi6otd"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
-
-[display]
-
-window/stretch/mode="canvas_items"
-window/stretch/aspect="expand"
 
 [physics]
 
