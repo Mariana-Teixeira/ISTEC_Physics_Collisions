@@ -2,7 +2,7 @@
 
 [ext_resource type="MeshLibrary" uid="uid://b66j80a7cfisw" path="res://tiles.tres" id="1_uwrxv"]
 [ext_resource type="PackedScene" uid="uid://b2uj8k5m2imk0" path="res://scenes/ball.tscn" id="2_yqjtg"]
-[ext_resource type="Script" uid="uid://cnqd3p5lcpm3r" path="res://scenes/ball.gd" id="3_lnu2h"]
+[ext_resource type="Script" uid="uid://cnqd3p5lcpm3r" path="res://scripts/ball.gd" id="3_lnu2h"]
 
 [node name="Game" type="Node3D" unique_id=559845273]
 
